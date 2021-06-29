@@ -6,6 +6,4 @@ def roller():
         roller() #alow user to recursively repeat roll
 roller()
 
-#commands to run project
-#docker build -t <image> .
-#docker run -i -t <image>
+
